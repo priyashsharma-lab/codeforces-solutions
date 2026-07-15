@@ -1,16 +1,15 @@
-# 🚀 Codeforces Solutions
+#  Codeforces Solutions
 
 This repository contains my **accepted solutions** to Codeforces problems implemented in **Java** and **Python**.
 
 Problems are organized by their **Codeforces rating** to track progress and improve competitive programming skills.
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 codeforces-solutions/
 │
 ├── 800/
-    ├──
 ├── 900/
 ├── 1000/
 ├── 1100/
@@ -23,35 +22,31 @@ codeforces-solutions/
 ├── 1800/
 ├── 1900/
 │
-├── templates/
-│   ├── JavaTemplate.java
-│   └── PythonTemplate.py
-│
 ├── README.md
 ├── LICENSE
 └── .gitignore
 ```
 
-## 📝 Naming Convention
+##  Naming Convention
 
 Each solution is named as:
 
 ```
-ProblemID - ProblemName.extension
+CFProblemID_ProblemName.extension
 ```
 
-## 💻 Languages
+##  Languages
 
 - Java
 - Python
 
 
-## 📈 Progress
+##  Progress
 
 | Rating | Solved |
 |---------|--------|
-| 800 | 0 |
-| 900 | 0 |
+| 800 | 1 |
+| 900 | 1 |
 | 1000 | 0 |
 | 1100 | 0 |
 | 1200 | 0 |
@@ -63,8 +58,8 @@ ProblemID - ProblemName.extension
 | 1800 | 0 |
 | 1900+ | 0 |
 
-**Total Solved:** **0**
+**Total Solved:** **2**
 
 ---
 
-Happy Coding! 🚀
+Happy Coding! 
