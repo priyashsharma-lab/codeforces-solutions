@@ -47,7 +47,7 @@ CFProblemID_ProblemName.extension
 |---------|--------|
 | 800 | 1 |
 | 900 | 1 |
-| 1000 | 1 |
+| 1000 | 2 |
 | 1100 | 0 |
 | 1200 | 0 |
 | 1300 | 0 |
@@ -58,7 +58,7 @@ CFProblemID_ProblemName.extension
 | 1800 | 0 |
 | 1900+ | 0 |
 
-**Total Solved:** **3**
+**Total Solved:** **4**
 
 ---
 
